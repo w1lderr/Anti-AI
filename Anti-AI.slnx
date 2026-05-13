@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Anti-AI/Anti-AI.vcxproj" Id="95810206-528c-45f2-b129-b22b547443d6" />
+</Solution>
