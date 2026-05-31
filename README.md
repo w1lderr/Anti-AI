@@ -26,7 +26,7 @@
 ## 🧰 Technologies Used
 - **C++20**
 - **Windows API** (WFP, WinSock, DNS)
-- **Visual Studio / MSVC** (v145 toolset)
+- **Visual Studio / MSVC** (toolset configured in the project)
 
 ## ▶️ How to run this project?
 > ⚠️ **Administrator privileges required** (WFP + hosts file edits).
