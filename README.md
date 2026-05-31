@@ -1,6 +1,6 @@
 # Anti-AI
 
-🛡️ **Anti-AI** is a Windows console app built for teamwork as the final exam project for **Object** at **ITSTEP (IT SCHOOL)**. The tool blocks access to popular AI services by combining Windows Filtering Platform (WFP) rules with hosts file overrides.
+🛡️ **Anti-AI** is a Windows console app built for teamwork as the final exam project for **Object-Oriented Programming** at **ITSTEP (IT SCHOOL)**. The tool blocks access to popular AI services by combining Windows Filtering Platform (WFP) rules with hosts file overrides.
 
 ## 🧭 Overview
 - Resolves a curated list of AI-related domains.
