@@ -36,7 +36,7 @@
 3. Run the generated `.exe` **as Administrator**.
 4. Keep the window open to keep blocking active.
 5. To uninstall/cleanup:
-   ```bash
+   ```powershell
    Anti-AI.exe --uninstall
    ```
 
